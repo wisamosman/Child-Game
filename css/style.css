@@ -20,7 +20,7 @@
 }
 .navbar-nav{
     background-color: black;
-    margin-left: 150px;
+    margin-left: 120px;
     padding: 15px 40px 15px 15px;
     border-radius: 30px;
 }
@@ -42,17 +42,19 @@ padding: 8px 20px;
 }
 .d-flex{
     background-color: black;
-    padding: 15px 40px;
+    padding: 12px 20px;
+    border-radius: 20px;
 }
 .btn{
     color: white;
     font-weight: 400;
     font-size: 18px;
     margin-right: 13px;
+    border: 1px solid black;
 
 }
 .bi{
     color: white;
-    
+    margin-top: 5px;
     
 }

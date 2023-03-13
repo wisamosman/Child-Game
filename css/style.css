@@ -58,3 +58,14 @@ padding: 8px 20px;
     margin-top: 5px;
     
 }
+.q10{
+    text-decoration: none;
+    color: black;
+    padding: 15px 40px;
+    background-color: #48dbfb;
+    border-radius: 20px;
+    font-weight: 900;
+}
+.q11{
+    padding-top: 250px;
+}

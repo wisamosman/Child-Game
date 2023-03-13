@@ -1,0 +1,6 @@
+.q1{
+    width: 100%;
+    height: auto;
+    position: fixed;
+    z-index: -1;
+}

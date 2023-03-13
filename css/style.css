@@ -7,11 +7,26 @@
 .navbar-brand{
     color: white;
     font-weight: 900;
-    font-size: 20px;
-    padding: 15px 25px;
+    font-size: 24px;
+    padding: 15px 40px;
     background-color: black;
+    border-radius: 15px;
 }
 .navbar{
-    padding-top: 30px;
+    padding-top: 50px;
     padding-bottom: ;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.navbar-nav{
+    background-color: black;
+    margin-left: 150px;
+    
+}
+
+.nav-link{
+    color: white;
+    margin-left: 10px;
+    font-weight: 400;
+    font-size: 22px;
 }

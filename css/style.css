@@ -4,3 +4,14 @@
     position: fixed;
     z-index: -1;
 }
+.navbar-brand{
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+    padding: 15px 25px;
+    background-color: black;
+}
+.navbar{
+    padding-top: 30px;
+    padding-bottom: ;
+}
